@@ -1,0 +1,25 @@
+# ESR Tech Blog Demo
+
+This repository contains a static frontend concept for an ESR Tech blog listing page.
+
+## Important status
+
+- This is not a complete company website.
+- It is not an official source for company services, pricing, careers, leadership, awards, policies, or contact information.
+- Many navigation links point to pages that are not present in the repository.
+- Search, pagination, newsletter signup, and contact actions may be visual-only and non-functional.
+- Article dates, categories, summaries, and images may be placeholder or archived content.
+
+Do not submit personal information, business inquiries, payment details, credentials, or newsletter data through an unverified static demo.
+
+## Technology
+
+- Static HTML
+- CSS
+- jQuery and plugin scripts
+- Responsive blog-card layout
+- Local and remote image assets
+
+## Repository
+
+https://github.com/Nischhalsubba/Tech_Blog
