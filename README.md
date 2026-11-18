@@ -76,3 +76,7 @@ flowchart LR
 ## Content validation and contributor guidance
 
 The [content publication and review guide](docs/TECHNICAL_EDITORIAL_STANDARD.md) documents verification, accessibility and rollback expectations for future updates.
+
+## Review evidence and acceptance
+
+See the [add reproducible article evidence and navigation QA](./docs/ARTICLE_EVIDENCE_AND_LINK_AUDIT.md) for domain-specific QA, release evidence and safe rollback procedures.
