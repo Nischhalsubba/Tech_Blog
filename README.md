@@ -72,3 +72,7 @@ For each article, maintain a unique title and meta description, stable slug, can
 flowchart LR
     IDEA["Article / site change"] --> DRAFT["Write / implement"] --> VERIFY["Verify examples / sources"] --> ACCESS["Readability + accessibility review"] --> SEO["Metadata / links check"] --> PR["Pull request"]
 ```
+
+## Content validation and contributor guidance
+
+The [content publication and review guide](docs/TECHNICAL_EDITORIAL_STANDARD.md) documents verification, accessibility and rollback expectations for future updates.
